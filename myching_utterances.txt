@@ -1,0 +1,76 @@
+StartIntent	begin
+StartIntent	start
+StartIntent	hello
+
+NextQuestionIntent	yes
+NextQuestionIntent	sure
+NextQuestionIntent	okay
+NextQuestionIntent	why not
+NextQuestionIntent	of course
+NextQuestionIntent	skip
+NextQuestionIntent	ready
+NextQuestionIntent	begin
+NextQuestionIntent	new question
+NextQuestionIntent	next
+NextQuestionIntent	next question
+NextQuestionIntent	any more
+NextQuestionIntent	continue
+NextQuestionIntent	keep going
+NextQuestionIntent	ready when you are
+
+RepeatQuestionIntent	repeat
+RepeatQuestionIntent	say that again
+RepeatQuestionIntent	say again
+RepeatQuestionIntent	what was the question
+RepeatQuestionIntent	repeat that
+RepeatQuestionIntent	please repeat that
+RepeatQuestionIntent	once again
+RepeatQuestionIntent	once again please
+RepeatQuestionIntent	please repeat
+RepeatQuestionIntent	please say it again
+RepeatQuestionIntent	say it again
+RepeatQuestionIntent	repeat it
+
+
+finished	no
+finished	I'm done
+finished	finished
+finished	thats it
+finished	all done
+finished	no more
+
+sources	what are your sources
+sources	what is this based on
+sources	source
+sources	sources
+sources	background information
+
+thinking	thinking
+thinking	Let me think
+thinking	Hmmm
+thinking	That's a good question
+thinking	Good question
+thinking	I'm not sure
+thinking	I'm not ready
+
+endsession	goodbye
+endsession	bye bye
+endsession	see ya
+endsession	later
+endsession	so long
+
+feedback	let me give feedback
+feedback	I have some feedback
+feedback	feedback
+feedback	heres some feedback
+
+explain	explain i ching
+explain	what is this
+explain	what is i ching
+explain	explain
+explain	explain it
+explain	explain what youre doing
+
+score		I would rate you a {scorenumber}
+score		I would give it a {scorenumber}
+score		{scorenumber}

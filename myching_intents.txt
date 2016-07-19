@@ -1,0 +1,56 @@
+{
+  "intents": [
+    {
+      "intent": "StartIntent",
+      "slots": []
+    },
+    {
+      "intent": "NextQuestionIntent",
+      "slots": []
+    },
+    {
+      "intent": "RepeatQuestionIntent",
+      "slots": []
+    },
+    {
+      "intent": "sources",
+      "slots": []
+    },
+    {
+      "intent": "finished",
+      "slots": []
+    },
+    {
+      "intent": "thinking",
+      "slots": []
+    },
+    {
+      "intent": "feedback",
+      "slots": []
+    },
+    {
+      "intent": "explain",
+      "slots": []
+    },
+    {
+      "intent": "endsession",
+      "slots": []
+    },
+    {
+      "intent": "score",
+      "slots": [{
+          "name": "scorenumber",
+          "type": "SCOREVALUE"
+        }]
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}		
