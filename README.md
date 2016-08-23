@@ -1,5 +1,5 @@
 # MyChing
-A Node-RED flow for the Amazon Alexa skill "My Ching", created by Barnett Labs LLC.  It uses Node-RED running on IBM's Bluemix, with a Cloudant database.  A screenshot of the flow is attached as myching_flow.png.
+A Node-RED flow for the Amazon Alexa skill "My Ching", created by Barnett Labs LLC.  It uses Node-RED running on IBM's Bluemix, with a Cloudant database.  A screenshot of the flow is attached as [myching_flow.png](https://pages.github.com/).
 
 A few notes:
 - A helpful "Hello World" tutorial on using Node-RED to build Alexa (Echo) apps: https://www.youtube.com/watch?v=bt26Tnhdu80
